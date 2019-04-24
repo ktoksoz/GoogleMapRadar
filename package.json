@@ -1,0 +1,16 @@
+{
+  "name": "googlemapradar",
+  "version": "1.0.0",
+  "description": "Google Map Radar Screen",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Koray Toksoz",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "electron": "^4.1.4",
+    "express": "^4.16.4"
+  }
+}
